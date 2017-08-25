@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="hotel_category">Hotels</string>
+    <string name="restaurants_category">Food</string>
+    <string name="shop_category">Shops</string>
+    <string name="info_category">Info</string>
+
+    <string name="first_res_name">Dinner by Heston Blumenthal</string>
+    <string name="first_res_about">The restaurant is the birthplace of “new Nordic” cuisine, which relies
+        solely on ingredients available in region.</string>
+
+    <string name="second_res_name">Restaurant Gordon Ramsay</string>
+    <string name="second_res_about">Behind a stately exterior, the world’s most emotive chef, Massimo Bottura,
+        cooks flights of fantasy and memory.</string>
+
+    <string name="third_res_name">The French Laundry</string>
+    <string name="third_res_about">Heston Blumenthal took his fascination with English culinary history and
+        turned it into something unexpectedly interesting for the rest of us.</string>
+
+    <string name="four_res_name">Victors Fine Dining</string>
+    <string name="four_res_about">Grant Achatz did a brief stint at Ferran Adriàs elBulli, and ever since
+        has been out avant-garding what was once the most avant-garde restaurant in the world. </string>
+
+    <string name="five_res_name">The Test Kitchen</string>
+    <string name="five_res_about"> The Ledbury is probably the most classical, which is to say that its chef,
+        Australian-born Brett Graham, is more interested in pleasure than wizardry. </string>
+
+
+    <string name="first_hotel_name">Alvear Palace</string>
+    <string name="first_hotel_about">The hotel was constructed by Las Vegas Sands and is managed by Starwood Hotels
+        . It is part of Macaus newest fully integrated resort complex, Sands Cotai Central.</string>
+
+    <string name="second_hotel_name">Armenia Marriott Hotel</string>
+    <string name="second_hotel_about">The resort was originally designed by architect Jon Jerde in collaboration with Steve
+        Wynn along with Roger Thomas who designed the interior of Treasure Island Hotel and Casino.</string>
+
+    <string name="third_hotel_name">The Hotel Windsor</string>
+    <string name="third_hotel_about">The JW Marriott Marquis Dubai Hotel is the worlds tallest hotel, a 72-storey, 355 m
+        (1,165 ft) twin-tower skyscraper complex in Dubai, United Arab Emirates. </string>
+
+    <string name="four_hotel_name">Grand Hotel London</string>
+    <string name="four_hotel_about"> During the colonial period, The Strand was one of the most luxurious hotels in the
+        British Empire with a clientele of exclusively whites.</string>
+
+    <string name="five_hotel_name">Great Western Royal</string>
+    <string name="five_hotel_about">The Savoy Hotel was the first in the Savoy group of hotels and restaurants owned
+        by Cartes family for over a century.</string>
+
+
+    <string name="first_shop_name"> Kith NYC</string>
+    <string name="first_shop_about">Ronnie Fieg and crew have not only established a brand that cancreate
+        pieces that sell outin a matter of minutes,but he is also created a shop that gives other
+        NYC shops who have been around for years a run for their money. </string>
+
+    <string name="second_shop_name">Fruition LV</string>
+    <string name="second_shop_about">The best heritage brands? Got em. Japanese favorites? Filled to the
+        brim. Exclusive collaborations with flat out winning brands?</string>
+
+    <string name="third_shop_name">Carson Street Clothiers</string>
+    <string name="third_shop_about">One of the newest shops around will have you feeling laid back
+        and anxious to get your hands on their menswear mix at the same time</string>
+
+    <string name="four_shop_name">Marks &amp; Spencer</string>
+    <string name="four_shop_about">Carrying the staple streetwear brands before you even knew what streetwear was. </string>
+
+    <string name="five_shop_name">Maadi City Center</string>
+    <string name="five_shop_about">The bespoke tailor and shirt maker offers a luxurious experience throughout
+        it\'s four-story shop. </string>
+
+
+    <!-- Phone Number Strings -->
+    <string name="first_phone_number">+92 548 784</string>
+    <string name="second_phone_number">+78 174 295</string>
+    <string name="third_phone_number">+34 162 133</string>
+    <string name="four_phone_number">+01 550 641</string>
+    <string name="five_phone_number">+68 149 443</string>
+
+    <!-- Locations Strings -->
+    <string name="first_location">+92 548 784</string>
+    <string name="second_location">+78 174 295</string>
+    <string name="third_location">+34 162 133</string>
+    <string name="four_location">+01 550 641</string>
+    <string name="five_location">+68 149 443</string>
+
+    <!-- Reviews Strings -->
+    <string name="first_review">914 LIKES</string>
+    <string name="second_review">804 LIKES</string>
+    <string name="third_review">757 LIKES</string>
+    <string name="four_review">736 LIKES</string>
+    <string name="five_review">422 LIKES</string>
+
+    <string name="share_string">SHARE</string>
+    
+    <!-- Info Strings -->
+
+    <string name="inf_about_header">About The City</string>
+    <string name="info_about">
+        This is just a fictional Place :) .
+        A fictional country is a country that is made up for fictional stories, and does not exist in
+        real life, or one that people believe in without proof(Wiki).
+       Fictional countries appear commonly in stories of early science fiction (or scientific romance).
+        Such countries supposedly form part of the normal Earth landscapealthough not located in a normal
+        atlas. Later similar tales often took place on fictional planets(Wiki).
+
+    </string>
+
+    <string name="info_location_header">Location Info</string>
+    <string name="info_location">
+        Our beautiful city also has a fictional location :) .
+        Fictional locations are places that exist only in fiction and not in reality, such as the Negaverse or
+        Planet X. Writers may create and describe such places to serve as backdrop for their fictional works. Fictional
+        locations are also created for use as settings in role-playing games such as Dungeons and Dragons(Wiki).
+    </string>
+
+    <string name="info_general_header">General Info</string>
+    <string name="info_general">
+        This is a random generated text:
+        Smallest directly families surprise honoured am an. Speaking replying mistress him numerous she returned feelings may day.
+        Evening way luckily son exposed get general greatly. Zealously prevailed be arranging do. Set arranging too dejection
+        september happiness. Understood instrument or do connection no appearance do invitation. Dried quick round it or order.
+        Add past see west felt did any. Say out noise you taste merry plate you share. My resolve arrived is we chamber be removal.
+
+    </string>
+
+</resources>
