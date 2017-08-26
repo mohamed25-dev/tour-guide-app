@@ -3,7 +3,18 @@
 + Project Tour Guide of Android Basics Course.
 + [Android Basics: Multiscreen Apps.](https://classroom.udacity.com/courses/ud839)
 
-## Things that I've learned :
+## Description 
++ This app includes information about a fiction place :)
++ It contains list of hotels, restaurants and shops 
++ All the info are faked and copied from differenr sources
+
+## What I've learned :
 + Fragments and Fragments Adapter
 + View Pager and the Tab Layout
 + Implicit Intents(ACTION_SHARE & ACTION_CALL)
+
+## Screenshots 
++ [logo]: https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/food_screenshot.png "Food Fragment"
++ [logo]: https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/hotels_screenshots.png "Hotel Fragment"
++ [logo]: https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/info_screenshot.png "Info Fragment"
++ [logo]: https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/info_screenshot.png "Info Fragment"
