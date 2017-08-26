@@ -14,15 +14,10 @@
 + Implicit Intents(ACTION_SHARE & ACTION_CALL)
 
 ## Screenshots 
+![alt text](https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/food_screenshot.png "Food Fragment")
 
-![alt text][logo]
-[logo]: https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/food_screenshot.png "Food Fragment"
+![alt text](https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/hotels_screenshot.png "Hotels Fragment")
 
-![alt text][logo]
-[logo]: https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/hotels_screenshots.png "Hotel Fragment"
+![alt text](https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/shops_screenshot.png "Shops Fragment")
 
-![alt text][logo]
-[logo]: https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/info_screenshot.png "Info Fragment"
-
-![alt text][logo]
-[logo]: https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/info_screenshot.png "Info Fragment"
+![alt text](https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/info_screenshot.png "Info Fragment")
