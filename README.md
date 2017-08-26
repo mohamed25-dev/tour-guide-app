@@ -16,7 +16,7 @@
 ## Screenshots 
 ![alt text](https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/food_screenshot.png "Food Fragment")
 
-![alt text](https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/hotels_screenshot.png "Hotels Fragment")
+![alt text](https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/hotels_screenshots.png "Hotels Fragment")
 
 ![alt text](https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/shops_screenshot.png "Shops Fragment")
 
