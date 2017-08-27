@@ -20,5 +20,5 @@
 
 ![alt text](https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/shops_screenshot.png "Shops Fragment")
 
-(<img src="https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/info_screenshot.png" width="360" hieght= "240">" )
+<img src="https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/info_screenshot.png" width="480" hieght= "854">
 
