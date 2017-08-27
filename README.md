@@ -21,3 +21,5 @@
 
 <img src="https://github.com/mohammed2571994/tour-guide-app/blob/master/screenshots/info_screenshot.png" width="480" hieght="854">
 
+## Resources :
++ Images inside the app from [Visual Hunt]([visualhunt.com)
